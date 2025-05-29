@@ -1,1 +1,11 @@
 key
+pyvenv.cfg
+etc/
+Include/
+Lib/
+Scripts/
+share/
+venv/
+.env/
+*.pyc
+__pycache__/
